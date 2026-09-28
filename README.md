@@ -20,10 +20,10 @@ My background in business administration, along with public sector experience an
 
 ## Portfolio Projects
 
-- **[Relational Sales Database](https://github.com/antonio-data-solutions/relational-sales-database)** – SQL & PostgreSQL project with data modeling and sales analysis.  
-- **[Integrated Views](https://github.com/antonio-data-solutions/integrated-views)** – Integrated SQL views over multiple CSV datasets.  
-- **[Business Analysis SQL](https://github.com/antonio-data-solutions/business-analysis-sql)** – Sales KPIs, trends, top customers and products using SQL.  
-- **[Data Clean & Validation](https://github.com/antonio-data-solutions/data-clean-validation)** – Data cleaning and validation with PostgreSQL, from raw orders to analysis-ready tables.
+- **[Relational Sales Database](https://github.com/antonio-data-solutions/relational-sales-database)** – SQL & PostgreSQL Learning Project – queries, data modeling and sales analysis.
+- **[Integrated Views](https://github.com/antonio-data-solutions/integrated-views)** – Integrated SQL Views Over Multiple CSV Datasets – data modeling and query examples. 
+- **[Business Analysis SQL](https://github.com/antonio-data-solutions/business-analysis-sql)** – SQL-Based Business Analysis – Sales KPIs, trends, top customers and products.
+- **[Data Clean & Validation](https://github.com/antonio-data-solutions/data-clean-validation)** – Data Cleaning and Validation with PostgreSQL - from raw orders to analysis-ready tables.
 
 ## Current Goal
 
