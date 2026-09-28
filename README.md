@@ -4,9 +4,9 @@ Data Analyst focused on SQL, PostgreSQL, database projects, and business insight
 
 ## About Me
 
-I work on practical data analytics projects using SQL and PostgreSQL.
+I work on practical data analytics projects using SQL and PostgreSQL. 
 
-My background in Business Administration, public-sector experience, and experience as a manager and small business owner help me understand operational challenges and translate business questions into actionable insights.
+My background in business administration, along with public sector experience and time as a manager and small business owner, helps me understand operational challenges and translate business questions into actionable insights.
 
 ## Skills
 
@@ -18,13 +18,12 @@ My background in Business Administration, public-sector experience, and experien
 - Data validation
 - Reusable database views
 
-## Featured Project
+## Portfolio Projects
 
-### Small Business Sales Database
-
-A PostgreSQL database project designed to analyze sales performance, product performance, customer spending, and category-level results for a small business.
-
-[View the project repository](https://github.com/antonio-data-solutions/sql-portfolio-antonio)
+- **[Relational Sales Database](https://github.com/antonio-data-solutions/relational-sales-database)** – SQL & PostgreSQL project with data modeling and sales analysis.  
+- **[Integrated Views](https://github.com/antonio-data-solutions/integrated-views)** – Integrated SQL views over multiple CSV datasets.  
+- **[Business Analysis SQL](https://github.com/antonio-data-solutions/business-analysis-sql)** – Sales KPIs, trends, top customers and products using SQL.  
+- **[Data Clean & Validation](https://github.com/antonio-data-solutions/data-clean-validation)** – Data cleaning and validation with PostgreSQL, from raw orders to analysis-ready tables.
 
 ## Current Goal
 
